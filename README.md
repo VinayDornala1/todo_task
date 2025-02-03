@@ -1,16 +1,3 @@
-# dru_care_task
+About Task :- This Flutter To-Do List app lets users add tasks, view them in a list, and mark them as complete using a checkbox. It uses the BLoC pattern for managing state efficiently.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Task video url with explanation :- https://www.kapwing.com/videos/67a0ebb9814370e0b281647a
